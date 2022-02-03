@@ -8,4 +8,4 @@ for (let i = 0; i < dogImages.length; i++) {
 }
 
 let myHeader = document.querySelector("#dog-name");
-header.style.textAlign = "left";
+myHeader.style.textAlign = "left";
